@@ -8,6 +8,7 @@ on:
       - main
       - releasing/*
       - dev
+      - 5431-torch-add113-drop17
   pull_request:
     types: [opened, synchronize, closed]
 
